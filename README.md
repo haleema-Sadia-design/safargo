@@ -94,7 +94,7 @@ streamlit run app.py
 
 ## Author Information
 
-- **Haleema Sadia** Add your name here.
+- **Haleema Sadia**
 
 
 
